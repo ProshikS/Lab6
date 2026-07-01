@@ -1,0 +1,14 @@
+C:\Users\Prokhor\source\repos\Lab_6-Task_1\Lab_6-Task_1\bin\Debug\net8.0\Lab_6-Task_1.exe
+C:\Users\Prokhor\source\repos\Lab_6-Task_1\Lab_6-Task_1\bin\Debug\net8.0\Lab_6-Task_1.deps.json
+C:\Users\Prokhor\source\repos\Lab_6-Task_1\Lab_6-Task_1\bin\Debug\net8.0\Lab_6-Task_1.runtimeconfig.json
+C:\Users\Prokhor\source\repos\Lab_6-Task_1\Lab_6-Task_1\bin\Debug\net8.0\Lab_6-Task_1.dll
+C:\Users\Prokhor\source\repos\Lab_6-Task_1\Lab_6-Task_1\bin\Debug\net8.0\Lab_6-Task_1.pdb
+C:\Users\Prokhor\source\repos\Lab_6-Task_1\Lab_6-Task_1\obj\Debug\net8.0\Lab_6-Task_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prokhor\source\repos\Lab_6-Task_1\Lab_6-Task_1\obj\Debug\net8.0\Lab_6-Task_1.AssemblyInfoInputs.cache
+C:\Users\Prokhor\source\repos\Lab_6-Task_1\Lab_6-Task_1\obj\Debug\net8.0\Lab_6-Task_1.AssemblyInfo.cs
+C:\Users\Prokhor\source\repos\Lab_6-Task_1\Lab_6-Task_1\obj\Debug\net8.0\Lab_6-Task_1.csproj.CoreCompileInputs.cache
+C:\Users\Prokhor\source\repos\Lab_6-Task_1\Lab_6-Task_1\obj\Debug\net8.0\Lab_6-Task_1.dll
+C:\Users\Prokhor\source\repos\Lab_6-Task_1\Lab_6-Task_1\obj\Debug\net8.0\refint\Lab_6-Task_1.dll
+C:\Users\Prokhor\source\repos\Lab_6-Task_1\Lab_6-Task_1\obj\Debug\net8.0\Lab_6-Task_1.pdb
+C:\Users\Prokhor\source\repos\Lab_6-Task_1\Lab_6-Task_1\obj\Debug\net8.0\Lab_6-Task_1.genruntimeconfig.cache
+C:\Users\Prokhor\source\repos\Lab_6-Task_1\Lab_6-Task_1\obj\Debug\net8.0\ref\Lab_6-Task_1.dll
