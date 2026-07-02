@@ -75,5 +75,18 @@ internal class Program
         Console.WriteLine("package6: "+package6);
         Console.WriteLine("Транспортировка: "+ package6.Transportation());
         Console.WriteLine();
+
+
+        //ввод с клавиатуры
+        int length = Checking.ReadInt("Введите длину посылки: ");
+        int width = Checking.ReadInt("Введите ширину посылки: ");
+        int height = Checking.ReadInt("Введите высоту посылки: ");
+        int weight = Checking.ReadInt("Введите вес посылки: ");
+        Console.WriteLine("Посылка хрупкая? (Да/Нет)");
+        string answer = Console.ReadLine();
+        Package p = new Package(length, width, height, weight, answer);
+        Console.WriteLine("p: " + p);
+        Console.WriteLine("Упаковка: " + p.Packing());
+        Console.WriteLine("Транспортировка: " + p.Transportation());
     }
 }

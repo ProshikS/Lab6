@@ -16,12 +16,12 @@
         // Проверка приведения
         int x = (int)p1;
         double y = p1; // неявное
-        Console.WriteLine($"Явное приведение p1 к int: "+x);
-        Console.WriteLine($"Неявное приведение p1 к double: "+y);
+        Console.WriteLine("Явное приведение p1 к int: "+x);
+        Console.WriteLine("Неявное приведение p1 к double: "+y);
 
         // Проверка оператора + (расстояние)
         double length = p1 + p2;
-        Console.WriteLine($"Расстояние между p1 и p2: " + length);
+        Console.WriteLine("Расстояние между p1 и p2: " + length);
 
         // Проверка операторов + с целым числом
         Point p4 = p1 + 10;
@@ -35,5 +35,22 @@
         Console.WriteLine($"p1 после ++: {p1}");
         p1--;
         Console.WriteLine($"p1 после --: {p1}");
+
+        double x2 = Checking.ReadDouble("Введите координату Х: ");
+        double y2 = Checking.ReadDouble("Введите координату У: ");
+        Point point = new Point(x2, y2);
+        Console.WriteLine("Точка point: " + point);
+        Console.WriteLine();
+        length = point.Length(point, p2);
+        Console.WriteLine("Расстояние между точками point и p2 = "+length);
+        Point point1 = point + 10;
+        Point point2 = 15 + point;
+        Console.WriteLine("point + 10: " + point1);
+        Console.WriteLine("20 + point: "+point2);
+        Console.WriteLine("point до ++: " + point);
+        point++;
+        Console.WriteLine("point после ++: "+point);
+        point--;
+        Console.WriteLine("point после --: " + point);
     }
 }

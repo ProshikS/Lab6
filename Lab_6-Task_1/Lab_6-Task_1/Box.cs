@@ -68,14 +68,20 @@ internal class Box
 
     public int Length
     {
-        get { return _length; }
-        set { _length = value; }
+        get 
+        { 
+            return _length; 
+        }
+        set 
+        { 
+            _length = value; 
+        }
     }
     
     public int Width
     {
         get 
-        {
+        { 
             return _width; 
         }
         set 
@@ -87,10 +93,10 @@ internal class Box
     public int Height
     {
         get 
-        {
+        { 
             return _height; 
         }
-        set 
+        set
         { 
             _height = value; 
         }

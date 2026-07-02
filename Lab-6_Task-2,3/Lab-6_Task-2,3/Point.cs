@@ -26,7 +26,7 @@ internal class Point
         _y = p._y;
     }
 
-    public double length(Point A, Point B)
+    public double Length(Point A, Point B)
     {
         return Math.Sqrt((B._x-A._x)*(B._x - A._x)
             +(B._y-A._y)*(B._y - A._y));
@@ -88,26 +88,14 @@ internal class Point
     //свойства
     public double X
     {
-        get 
-        {
-            return _x; 
-        }
-        set 
-        {
-            _x = value; 
-        }
+        get { return _x; }
+        set { _x = value; }
     }
 
     public double Y
     {
-        get 
-        { 
-            return _y; 
-        }
-        set
-        {
-            _y = value; 
-        }
+        get { return _y; }
+        set { _y = value; }
     }
 }
 
