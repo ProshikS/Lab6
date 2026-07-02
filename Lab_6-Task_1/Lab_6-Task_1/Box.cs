@@ -74,14 +74,26 @@ internal class Box
     
     public int Width
     {
-        get { return _width; }
-        set { _width = value; }
+        get 
+        {
+            return _width; 
+        }
+        set 
+        { 
+            _width = value; 
+        }
     }
 
     public int Height
     {
-        get { return _height; }
-        set { _height = value; }
+        get 
+        {
+            return _height; 
+        }
+        set 
+        { 
+            _height = value; 
+        }
     }
 }
 
